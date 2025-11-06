@@ -71,7 +71,6 @@ Snark Health Protocol is a comprehensive Solana-based healthcare platform that e
 ### 3. Hippocratic Coin® (HTC)
 - **Token Standard**: SPL Token on Solana
 - **Total Supply**: Tokenomics coming soon
-- 
 - **Staking**: Earn rewards through token staking in future
 - **Health Savings**: Designed for future healthcare expenses 
  
@@ -131,7 +130,7 @@ Coming soon
  
 ## 📄 License
  
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
  
 ## 🔗 Links
  
