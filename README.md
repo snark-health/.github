@@ -23,33 +23,33 @@ Snark Health Protocol is a comprehensive Solana-based healthcare platform that e
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    Snark Health Protocol                          │
+│                    Snark Health Protocol                        │
 ├─────────────────────────────────────────────────────────────────┤
-│  ┌──────────────┐  ┌──────────────┐ ┌──────────────┐          │
-│  │   Wallet     │  │  Marketplace │  │  EMR System  │          │
-│  │  Management  │  │              │  │              │          │
-│  └──────────────┘  └──────────────┘ └──────────────┘          │
-│  ┌──────────────┐  ┌──────────────┐ ┌──────────────┐          │
-│  │  Hippocratic│  │  Decentralized│ │  ZK-SNARKs   │          │
-│  │  Coin® (HTC) │  │  Storage (DSP)│ │  Verification│          │
-│  └──────────────┘  └──────────────┘ └──────────────┘          │
-│  ┌──────────────┐  ┌──────────────┐ ┌──────────────┐          │
-│  │  AI Agents   │  │  Payment Auto │  │  Data Listing│          │
-│  │  Framework   │  │  Agent        │  │  Agent       │          │
-│  └──────────────┘  └──────────────┘ └──────────────┘          │
+│  ┌──────────────┐  ┌──────────────┐ ┌──────────────┐            │
+│  │   Wallet     │  │  Marketplace │ │  EMR System  │            │
+│  │  Management  │  │              │ │              │            │
+│  └──────────────┘  └──────────────┘ └──────────────┘            │
+│  ┌──────────────┐  ┌──────────────┐ ┌──────────────┐            │
+│  │  Hippocratic │  │ Decentralized│ │  ZK-SNARKs   │            │
+│  │  Coin® (HTC) │  │ Storage (DSP)│ │  Verification│            │
+│  └──────────────┘  └──────────────┘ └──────────────┘            │
+│  ┌──────────────┐  ┌──────────────┐ ┌──────────────┐            │
+│  │  AI Agents   │  │ Payment Auto │ │  Data Listing│            │
+│  │  Framework   │  │  Agent       │ │  Agent       │            │
+│  └──────────────┘  └──────────────┘ └──────────────┘            │
 └─────────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                    Solana Blockchain Layer                       │
-│  ┌──────────────┐  ┌──────────────┐ ┌──────────────┐          │
-│  │  Marketplace │  │  Identity    │  │  ZK-Identity │          │
-│  │  Program     │  │  Program     │  │  Program     │          │
-│  └──────────────┘  └──────────────┘ └──────────────┘          │
-│  ┌──────────────┐  ┌──────────────┐ ┌──────────────┐          │
-│  │  DSP Storage │  │  DSP Payment │  │  DSP Access │          │
-│  │  Program     │  │  Program     │  │  Program     │          │
-│  └──────────────┘  └──────────────┘ └──────────────┘          │
+│                    Solana Blockchain Layer                      │
+│  ┌──────────────┐  ┌──────────────┐ ┌──────────────┐            │
+│  │  Marketplace │  │  Identity    │ │  ZK-Identity │            │
+│  │  Program     │  │  Program     │ │  Program     │            │
+│  └──────────────┘  └──────────────┘ └──────────────┘            │
+│  ┌──────────────┐  ┌──────────────┐ ┌──────────────┐            │
+│  │  DSP Storage │  │  DSP Payment │ │  DSP Access  │            │
+│  │  Program     │  │  Program     │ │  Program     │            │
+│  └──────────────┘  └──────────────┘ └──────────────┘            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -389,8 +389,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 * **Solana Foundation** for blockchain infrastructure
 * **Anchor Framework** for Solana development
-* **Circom** for ZK-SNARK circuit development
-* **snarkjs** for proof generation and verification
 * All contributors and supporters
 
 ---
