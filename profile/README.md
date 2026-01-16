@@ -1,11 +1,6 @@
 # Snark Health Protocol
 
-Digital infrastructure for global access to healthcare: Data, Payments, Operations.
-Built for patients and doctors, powered by Solana and artificial intelligence.
-A new way to pay for healthcare through the Solana blockchain, AI, and Zero‑Knowledge Proofs. Store,
-manage, and share your health data securely while earning money.
-Build the healthcare payments and data layer for the agent economy. Snark Health uses Solana, ZK proofs, and
-mission‑aligned AI agents to expand access to doctors while lowering costs for patients.
+Snark Health is building the digital infrastructure for global healthcare access by integrating data, payments, and operations into a single ecosystem. Powered by Solana and mission-aligned AI, our platform enables patients to securely store and monetize their health data while providing doctors with streamlined operational tools. By leveraging ZK proofs and the agent economy, we are lowering costs and expanding access to care worldwide.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-100%25-orange.svg)](https://solana.com/)
