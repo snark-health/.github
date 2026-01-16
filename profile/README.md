@@ -13,6 +13,10 @@ Snark Health is building the digital infrastructure for global healthcare access
 - **Agent‑native payments** using SNARK and Hippocratic Coin USD
 - **Data marketplace + EMR integration** with patient‑controlled access
 - **Decentralized storage (DSP)** for HIPAA‑aligned workloads
+- **Revenue Cycle Management (RCM)** to streamline provider payments
+- **Wallet system** for patients, providers, and agents
+- **AI components + LLM tooling** for automation and orchestration
+- **Distributed sales network** for ecosystem expansion
 
 ## x402: Health AI Collective
 
@@ -26,6 +30,7 @@ settled in SNARK (with optional HUSD), creating a mission‑aligned agent econom
 - Ecosystem monorepo: https://github.com/snark-health/ecosystem
 - AI agents framework: https://github.com/snark-health/aiagentspublic
 - Website: https://snarkhealth.com
+- Docs: https://snark-health.gitbook.io/snark-health-docs/
 - X: https://x.com/snarkhealth
 - LinkedIn: https://linkedin.com/snarkhealth
 
