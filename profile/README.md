@@ -16,87 +16,55 @@ earn SNARK for physician-validated outputs.
 
 ### Clinical
 
-**Hippocratic Evidence** | Live
-Point-of-care clinical evidence search powered by Snark Clinical Intelligence (SCI).
-Surfaces guidelines, Cochrane reviews, and FDA labeling at the moment of care.
-Doctors use it. SCI runs underneath it.
+**Hippocratic Evidence™** | Live | Point-of-care clinical evidence search powered by Snark Clinical Intelligence (SCI). Surfaces guidelines, Cochrane reviews, and FDA labeling at the moment of care. Doctors use it. SCI runs underneath it.
 
-**EMR** | Built
-Patient charts with AI Scribe handoff. AI-native documentation built for the
-way doctors actually work.
+**EMR** | Built | Patient charts with AI Scribe handoff. AI-native documentation built for the way doctors actually work.
 
-**AI Scribe** | Built
-Ambient clinical documentation. Captures the encounter, drafts the note.
+**AI Scribe** | Built | Ambient clinical documentation. Captures the encounter, drafts the note.
 
-**Revenue Cycle** | Built
-Claims workflow for doctor organizations. Built for the Snark doctor network.
+**Revenue Cycle** | Built | Claims workflow for doctor organizations. Built for the Snark doctor network.
 
-**Hospital Medicine** | Preview
-Inpatient program management. Demo data stage.
+**Hospital Medicine** | Preview | Inpatient program management. Demo data stage.
 
 ---
 
 ### Financial Infrastructure
 
-**Non-Custodial Wallet** | Built
-Patients send, receive, and swap HTC, Hippocratic Coin USD (HTCUSD), and SNARK
-directly from the app. No intermediary holds the keys.
+**Non-Custodial Wallet** | Devnet | Patients send, receive, and swap HTC, Hippocratic Coin® USD (HTCUSD), and SNARK directly from the app. No intermediary holds the keys.
 
-**Payment Automation** | Built
-Asset-agnostic three-vault payment cascade on Solana. Dual-denomination threshold
-classification. Human-supervised today. Automation expands only as the system
-earns it. Phase 0 of 4. Every signing key still held by a person.
+**Payment Automation** | Built | Asset-agnostic three-vault payment cascade on Solana. Dual-denomination threshold classification. Human-supervised today. Automation expands only as the system earns it. Phase 0 of 4. Every signing key still held by a person.
 
-**Patient Treasury** | Built
-2% protocol fee on every agent-to-agent transaction, auto-swapped to SNARK
-and pooled on-chain. Distributed quarterly as a Health Dividend to verified
-network participants.
+**Patient Treasury** | Built | 2% protocol fee on every agent-to-agent transaction, auto-swapped to SNARK and pooled on-chain. Distributed quarterly as a Health Dividend to verified network participants.
 
-**Org/KYB Onboarding** | Built
-Doctor organization setup and verification. The entry point for doctor networks
-joining the platform.
+**Org/KYB Onboarding** | Built | Doctor organization setup and verification. The entry point for doctor networks joining the platform.
 
-**API Backend** | Built
-Shared Node API on VPS. Powers the platform across products.
+**API Backend** | Built | Shared Node API on VPS. Powers the platform across products.
 
 ---
 
 ### Data and Identity
 
-**Data Marketplace** | Built
-Consent-based health data monetization. Researchers post requests. Patients
-review each one and decide what to share. Consent recorded on-chain. 70% of
-every sale paid directly to the patient in HTCUSD. Every buyer signs the
-Hippocratic Oath of Alignment before access.
+**Data Marketplace** | Built | Consent-based health data monetization. Researchers post requests. Patients review each one and decide what to share. Consent recorded on-chain. 70% of every sale paid directly to the patient in HTCUSD. Every buyer signs the Hippocratic Oath of Alignment before access.
 
-**Health Data Sync** | Live
-Wearables, file upload, and EHR connectors. Google Fit live today. Apple Health,
-Fitbit, Garmin, Samsung Health, Whoop, EHR Connect (US FHIR) coming.
+**Health Data Sync** | Live | Wearables, file upload, and EHR connectors. Google Fit live today. Apple Health, Fitbit, Garmin, Samsung Health, Whoop, EHR Connect (US FHIR) coming.
 
-**Identity and Profile** | Live
-Account verification, on-chain reputation score, wallet linking, doctor
-verification. Government ID and insurance linking available.
+**Identity and Profile** | Live | Account verification, on-chain reputation score, wallet linking, doctor verification. Government ID and insurance linking available.
 
 ---
 
 ### Distribution
 
-**Sales Network (DSN)** | Preview
-Pipeline and commissions infrastructure for the Distributed Sales Network
-across Kenya, Nigeria, and the US. Demo data stage.
+**Sales Network (DSN)** | Preview | Pipeline and commissions infrastructure for the Distributed Sales Network across Kenya, Nigeria, and the US. Demo data stage.
 
 ---
 
 ## Tokens
 
-**SNARK** | Utility and governance token. 1 billion fixed supply. Fair launch.
-No team sales. Six Streamflow vesting contracts. Live on Solana mainnet.
+**SNARK** | Utility and governance token | 1 billion fixed supply. Fair launch. No team sales. Six Streamflow vesting contracts. Live on Solana mainnet.
 
-**Hippocratic Coin (HTC)** | Healthcare reserve asset token. 21 billion fixed
-supply. Floor Guarantee mechanism tied to actuarial outcomes data. Pre-launch.
+**Hippocratic Coin® (HTC)** | Healthcare reserve asset token | 21 billion fixed supply. Floor Guarantee mechanism tied to actuarial outcomes data. Pre-launch.
 
-**Hippocratic Coin USD (HTCUSD)** | US dollar-denominated health payment token
-for marketplace settlements and patient earnings. Pre-launch.
+**Hippocratic Coin® USD (HTCUSD)** | US dollar-denominated health payment token | For marketplace settlements and patient earnings. Pre-launch.
 
 ---
 
