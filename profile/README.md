@@ -24,7 +24,7 @@ earn SNARK for physician-validated outputs.
 
 **Revenue Cycle** | Built | Claims workflow for doctor organizations. Built for the Snark doctor network.
 
-**Hospital Medicine** | Preview | Inpatient program management. Demo data stage.
+**Hospital Medicine** | Live | Inpatient program management and physician staffing for hospitals.
 
 ---
 
